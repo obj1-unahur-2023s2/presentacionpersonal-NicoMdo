@@ -1,12 +1,11 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-# Acerca de Mí:
-    Mi nombre es Nicolás Montes de oca, tengo 29 años, soy técnico electrónico y trabajo soldando los componentes electrónicos de tableros de ascensores.
+Mi nombre es Nicolás Montes de oca, tengo 29 años, soy técnico electrónico y trabajo soldando los componentes electrónicos de tableros de ascensores.
     
-    Vivo a menos de 15 cuadras de la uni, agradecido a la accesibilidad y las facilidades por ello.
+Vivo a menos de 15 cuadras de la uni, agradecido a la accesibilidad y las facilidades por ello.
     
-    Antes de comenzar la carrera trabajaba haciendo instalaciones de camaras de seguridad para una empresa chica, lo cual me tenia estancado y trabajando
-    muchisimas horas extra a la semana. Siento que esa etapa fue lo que impulso a retomar los estudios y a estudiar con GANAS!. 
+Antes de comenzar la carrera trabajaba haciendo instalaciones de camaras de seguridad para una empresa chica, lo cual me tenia estancado y trabajando
+muchisimas horas extra a la semana. Siento que esa etapa fue lo que impulso a retomar los estudios y a estudiar con GANAS!. 
     
 
 # Respecto a la carrera:
